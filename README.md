@@ -138,7 +138,7 @@ This project was developed as part of my **M.Sc. Computer Science Major Project*
 
 ## 👩‍💻 Author
 
-**Amaya Mohan**
+**Amaya M**
 
 LinkedIn: *https://www.linkedin.com/in/amaya-mohan/*
 
