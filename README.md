@@ -137,45 +137,6 @@ This project was developed as part of my **M.Sc. Computer Science Major Project*
 ---
 
 
-## 📸 Project Screenshots
-
-### 🏗️ End-to-End Pipeline
-
-![Pipeline](images/pipeline.png)
-
----
-
-
-
-### 🔥 Grad-CAM Visualization
-
-![Grad-CAM](images/gradcam.png)
-
----
-
-### 📊 Model Evaluation
-
-![Model Evaluation](images/model_evaluation.png)
-
----
-
-### 📈 Confusion Matrix
-
-![Confusion Matrix](images/confusion_matrix.png)
-
----
-
-### 📉 ROC-AUC Curve
-
-![ROC-AUC](images/roc_auc_curve.png)
-
----
-
-### 🖥️ Streamlit Prediction Results
-
-| Prediction 1 | Prediction 2 | Prediction 3 |
-|--------------|--------------|--------------|
-| ![](images/result1.png) | ![](images/result2.png) | ![](images/result3.png) |
 
 ## 👩‍💻 Author
 
