@@ -1,0 +1,4 @@
+In  PowerShell, run this exact command:
+.\venv\Scripts\Activate.ps1
+pip install streamlit
+streamlit run app.py
